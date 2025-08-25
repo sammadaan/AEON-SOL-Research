@@ -1,27 +1,19 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "AEON-SOL: Adaptive Episodic Organization Networks for Self-Organizing Lifelong Learning"
 authors:
   - family-names: "Madaan"
     given-names: "Aseem"
-    email: "theaseemmadaan@gmail.com"
     orcid: "https://orcid.org/0009-0003-8728-6338"
-date-released: "2025-08-25"
-version: "1.0"
+    email: "theaseemmadaan@gmail.com"
+title: "AEON-SOL: Adaptive Episodic Organization Networks for Self-Organizing Lifelong Learning"
+version: 1.0.0
+date-released: 2025-08-25
+url: "https://github.com/sammadaan/AEON-SOL-Paper"
+license: "CC-BY-NC-ND-4.0"
 keywords:
   - "Continual Learning"
   - "Catastrophic Forgetting"
   - "Adaptive Consolidation"
-  - "AEON-SOL"
   - "Artificial Intelligence"
   - "Machine Learning"
-license: "CC-BY-NC-ND-4.0"
-repository-code: "https://github.com/sammadaan/AEON-SOL-Paper"
-type: "article"
-abstract: |
-  AEON-SOL is a continual learning framework that combines neuroscience-inspired 
-  adaptive consolidation with practical implementability. It addresses catastrophic 
-  forgetting through three core mechanisms: valence-gated dual-loop architecture, 
-  counterfactual credit assignment, and memory-constrained learning. Our experiments 
-  demonstrate an 87% reduction in catastrophic forgetting with 94.2% average accuracy 
-  on sequential classification tasks.
+abstract: "AEON-SOL is a continual learning framework that combines neuroscience-inspired adaptive consolidation with practical implementability. It addresses catastrophic forgetting through valence-gated dual-loop architecture, counterfactual credit assignment, and memory-constrained learning. Experiments show an 87% reduction in catastrophic forgetting with 94.2% average accuracy."
