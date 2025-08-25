@@ -1,0 +1,26 @@
+title: "AEON-SOL: Adaptive Episodic Organization Networks for Self-Organizing Lifelong Learning"
+author:
+  - name: "Aseem Madaan"
+    email: "aseemmadaan9@gmail.com"
+    orcid: "https://orcid.org/0000-0000-1234-5678"   # replace with your ORCID
+keywords:
+  - Continual Learning
+  - Catastrophic Forgetting
+  - Adaptive Consolidation
+  - AEON-SOL
+  - Artificial Intelligence
+  - Machine Learning
+  - Cognitive Architectures
+  - Deep Learning
+abstract: |
+  AEON-SOL is a continual learning framework that combines neuroscience-inspired 
+  adaptive consolidation with practical implementability. It addresses catastrophic 
+  forgetting through three core mechanisms: valence-gated dual-loop architecture, 
+  counterfactual credit assignment, and memory-constrained learning. Experiments 
+  demonstrate an 87% reduction in catastrophic forgetting with 94.2% average accuracy 
+  on sequential classification tasks.
+date-released: "2025-08-25"
+version: "v1.0"
+license: "CC-BY-NC-ND-4.0"
+repository: "https://github.com/sammadaan/AEON-SOL-Paper"
+type: "article"
