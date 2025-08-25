@@ -6,18 +6,18 @@ authors:
     given-names: "Aseem"
     email: "theaseemmadaan@gmail.com"
     orcid: "https://orcid.org/0009-0003-8728-6338"
-date-released: 2025-08-25
+date-released: "2025-08-25"
 version: "1.0"
 keywords:
-  - Continual Learning
-  - Catastrophic Forgetting
-  - Adaptive Consolidation
-  - AEON-SOL
-  - Artificial Intelligence
-  - Machine Learning
+  - "Continual Learning"
+  - "Catastrophic Forgetting"
+  - "Adaptive Consolidation"
+  - "AEON-SOL"
+  - "Artificial Intelligence"
+  - "Machine Learning"
 license: "CC-BY-NC-ND-4.0"
 repository-code: "https://github.com/sammadaan/AEON-SOL-Paper"
-type: article
+type: "article"
 abstract: |
   AEON-SOL is a continual learning framework that combines neuroscience-inspired 
   adaptive consolidation with practical implementability. It addresses catastrophic 
